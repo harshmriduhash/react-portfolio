@@ -56,6 +56,7 @@ const Experience = () => {
               <h4>React</h4>
             </article>
           </div>
+  
         </div>
           <div className="experience__backend">
             <h3>Back-end Development</h3>
@@ -88,6 +89,69 @@ const Experience = () => {
           </div>
         </div>
      
+        <div className="experience__backend">
+            <h3>Back-end Development</h3>
+            <div className="experience__content">
+              <article className="experience__details">
+                <DiNodejsSmall className="experience__details-icon" />
+                <h4>NodeJS</h4>
+              </article>
+              <article className="experience__details">
+                <SiExpress className="experience__details-icon" />
+                <h4>ExpressJS</h4>
+              </article>
+              <article className="experience__details">
+                <SiMongodb className="experience__details-icon" />
+                <h4>MongoDB</h4>
+              </article>
+              <article className="experience__details">
+                <BsFillPatchCheckFill className="experience__details-icon" />
+                <h4>Mongoose</h4>
+              </article>
+            
+              <article className="experience__details">
+              <BiGitBranch className="experience__details-icon" />
+                <h4>Git</h4>
+              </article>
+            <article className="experience__details">
+              <AiFillGithub className="experience__details-icon" />
+              <h4>GitHub</h4>
+            </article>
+          </div>
+        </div>
+
+        <div className="experience__backend">
+            <h3>Back-end Development</h3>
+            <div className="experience__content">
+              <article className="experience__details">
+                <DiNodejsSmall className="experience__details-icon" />
+                <h4>NodeJS</h4>
+              </article>
+              <article className="experience__details">
+                <SiExpress className="experience__details-icon" />
+                <h4>ExpressJS</h4>
+              </article>
+              <article className="experience__details">
+                <SiMongodb className="experience__details-icon" />
+                <h4>MongoDB</h4>
+              </article>
+              <article className="experience__details">
+                <BsFillPatchCheckFill className="experience__details-icon" />
+                <h4>Mongoose</h4>
+              </article>
+            
+              <article className="experience__details">
+              <BiGitBranch className="experience__details-icon" />
+                <h4>Git</h4>
+              </article>
+            <article className="experience__details">
+              <AiFillGithub className="experience__details-icon" />
+              <h4>GitHub</h4>
+            </article>
+          </div>
+        </div>
+
+        
 
       </div>
     </section>
