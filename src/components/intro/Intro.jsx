@@ -25,10 +25,15 @@ const Intro = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>20+ Completed Projects</small>
+              <small>35+ Completed Projects</small>
             </article>
           </div>
-          <p>As a MERN Stack developer, passionate about learning new technologies and working with teams to create user-friendly web applications. Over 4 and half years of experience in web development, and as a Tech Lead. Eager to develop skills in a fast-paced environment and contribute to a company's success.</p>
+          <p>It's not what I write here or on my CV, its what wonders I can do when I'm on my desk having my laptop open at your office, 
+            a Full Stack Developer (MERN stack) with great Problem Solving skills and rich 5 Years of experience in 
+            designing, developing, deploying and managing highly scalable Products/WebApps. 
+            As a developer, I'm passionate about learning new technologies and working with teams to create user-friendly & best Product . 
+            Over 5 years of experience in web development, and as a Tech Lead. 
+            Eager to develop skills in a fast-paced environment and contribute to a company's success.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>

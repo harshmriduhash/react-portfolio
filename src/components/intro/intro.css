@@ -14,7 +14,7 @@
 }
 
 .about__me-image {
-    max-width: 90%;
+    max-width: 80%;
     border-radius: 50rem;
     overflow: hidden;
     transform: rotate(10deg);

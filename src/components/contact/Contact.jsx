@@ -1,6 +1,8 @@
 import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 import { MdOutlineEmail } from 'react-icons/md';
+import { RiWhatsappLine } from "react-icons/ri";
+
 import './contact.css';
 
 const Contact = () => {
