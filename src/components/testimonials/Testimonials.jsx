@@ -16,14 +16,14 @@ const Testimonials = () => {
     {
       id: 1,
 
-      name: 'Uzair Ali',
+      name: 'Vikash Chand',
       role: 'Full-Stack Web Developer. JavaScript ',
       test: 'As a developer and a problem solver, I think Harsh is a great collaborative partner to have. I met Harsh in some basic javascript & react projects and since then he has drastically progressed in his understanding of the development process. He always has a professional environment and has good audio and video quality which makes it easier to communicate with him.',
     },
     {
       id: 2,
 
-      name: 'Yishak Wesego',
+      name: 'Yashika Wasai',
       role: 'Full-stack developer ',
       test: "It was a pleasure collaborating with Harsh on different projects. One of the things that I think is special about him is that he never settles, even after completing the projects he finds other resources and strengthens his knowledge. Collaborating with him is easy and comfortable, it's like working with someone you've known for a long period of time.",
     },
@@ -38,14 +38,14 @@ const Testimonials = () => {
     {
       id: 4,
 
-      name: 'Isai Céspedes',
+      name: 'Vivek Kumar',
       role: 'Full-Stack Web Developer. JavaScript | Rails | React | Redux.',
       test: "I was mentored by Harsh some months ago, and I can say that he is one of those people that you love to work with. he was always interested in what I was trying to teach his, paying attention and always asking questions if something was not clear. When it comes to professional skills, he is really committed to work, always doing his best and going beyond the requirements of the project he's building.",
     },
     {
       id: 5,
 
-      name: 'Hamza Tarar',
+      name: 'Kumar Rajat',
       role: 'Software Developer',
       test: "Throughout all our collaborations, Harsh has always conducted himself politely and kindly. he comes across as someone that's always willing to help and puts the team ahead of himself. But beneath this, I see a strength and determination to distinguish himself. he's not only someone I highly recommend but is also someone I greatly respect.",
     },
