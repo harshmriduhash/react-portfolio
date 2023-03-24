@@ -83,7 +83,7 @@ const Experience = () => {
               </article>
             <article className="experience__details">
               <AiFillGithub className="experience__details-icon" />
-              <h4>socket.io</h4>
+              <h4>Socket.Io</h4>
             </article>
             <article className="experience__details">
               <BiGitBranch className="experience__details-icon" />
@@ -129,7 +129,7 @@ const Experience = () => {
               </article>
             <article className="experience__details">
               <AiFillGithub className="experience__details-icon" />
-              <h4>GIT/GITHUB</h4>
+              <h4>GIT</h4>
             </article>
           </div>
         </div>
