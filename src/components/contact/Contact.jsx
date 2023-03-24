@@ -68,7 +68,7 @@ const Contact = () => {
           <button type="submit" className="btn btn-primary">
             Send Message
           </button>
-          {message && <span>Thanks, I'll reply Soon :)</span>}
+          {message && <span>Thanks, I will reply Soon :)</span>}
         </form>
       </div>
     </section>
